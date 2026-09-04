@@ -20,11 +20,11 @@ Las fotos salen de [`erikpr1994/open-exercise-db`](https://github.com/erikpr1994
 publicado bajo **Unlicense (dominio público)**. Aquí están recortadas, rotuladas en español y
 montadas en secuencia.
 
-El paso 3 (*YW con disco*) **no lleva foto**: no existe ninguna con licencia libre. Ese
-fotograma es solo el rótulo, y la animación real se enlaza aparte desde la propia app.
-
-Los dos pasos cuya foto no es exacta lo dicen encima de la imagen (*≈ foto aproximada*), para
-que nadie copie de la foto algo que el ejercicio no pide.
+Tres de los seis pasos (*pec stretch en foam roller*, *YW con disco*, *plancha lateral con
+rotación externa*) **no tienen ninguna foto con licencia libre** — se buscó en open-exercise-db,
+free-exercise-db, Everkinetic, Wikimedia Commons y Openverse. Esos tres son **ilustraciones
+originales** hechas para este repo (SVG renderizado), y lo dicen en la propia imagen. Así ningún
+fotograma enseña algo distinto de lo que pide el ejercicio.
 
 Obra derivada liberada igualmente al **dominio público** (Unlicense), como el original.
 
