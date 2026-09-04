@@ -13,6 +13,7 @@ ahí que este repo exista: es el único sitio del que el móvil puede leer un fi
 | Fichero | Qué es |
 |---|---|
 | `prehab-hombro.gif` | Secuencia de 6 pasos de un complejo de prehabilitación de hombro, un paso cada ~2 s, con rótulo (número, nombre, series y reps). |
+| `prehab-hombro-6.jpg` | Los mismos 6 pasos en una rejilla 3×2, para verlos de un vistazo. |
 
 ## Procedencia y licencia
 
