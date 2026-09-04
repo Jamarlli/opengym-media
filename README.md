@@ -10,10 +10,15 @@ ahí que este repo exista: es el único sitio del que el móvil puede leer un fi
 
 ## Contenido
 
-| Fichero | Qué es |
-|---|---|
-| `prehab-hombro.gif` | Secuencia de 6 pasos de un complejo de prehabilitación de hombro, un paso cada ~2 s, con rótulo (número, nombre, series y reps). |
-| `prehab-hombro-6.jpg` | Los mismos 6 pasos en una rejilla 3×2, para verlos de un vistazo. |
+| Fichero | Qué es | Origen |
+|---|---|---|
+| `prehab-hombro.gif` / `-6.jpg` | Complejo de prehab de hombro: 6 pasos rotulados, ~2 s cada uno, y los 6 en rejilla. | 3 fotos de dominio público + **3 ilustraciones propias** |
+| `cuello-4vias.gif` | Las 4 direcciones del trabajo de cuello: flexión y extensión con disco tumbado, y las dos laterales. | fotos de dominio público |
+| `push-press.gif` | Las 3 fases: barra en hombros → dip corto → extensión y bloqueo. | fotos de dominio público (el bloqueo, con otro modelo del mismo estudio) |
+| `mele-remo.gif` | Posición de melé y remo a una mano, con el aviso de que el tronco no debe rotar. | fotos de dominio público |
+| `hip-thrust-1-pierna.gif` / `.jpg` | Hip thrust a una pierna: abajo y arriba, con la cadera nivelada. | **ilustración propia** |
+| `rhie.gif` / `.jpg` | Bloque RHIE: ida y vuelta de 20 m con acciones de contacto, y la estructura de 5 bloques 1:1. | **ilustración propia** |
+| `lucha-contacto.gif` / `.jpg` | Lucha de agarre desde rodillas y la estructura 60 s / 60 s. | **ilustración propia** |
 
 ## Procedencia y licencia
 
@@ -21,8 +26,9 @@ Las fotos salen de [`erikpr1994/open-exercise-db`](https://github.com/erikpr1994
 publicado bajo **Unlicense (dominio público)**. Aquí están recortadas, rotuladas en español y
 montadas en secuencia.
 
-Tres de los seis pasos (*pec stretch en foam roller*, *YW con disco*, *plancha lateral con
-rotación externa*) **no tienen ninguna foto con licencia libre** — se buscó en open-exercise-db,
+Varios movimientos (*pec stretch en foam roller*, *YW con disco*, *plancha lateral con
+rotación externa*, *hip thrust a una pierna*, y los dos bloques de acondicionamiento)
+**no tienen ninguna foto con licencia libre** — se buscó en open-exercise-db,
 free-exercise-db, Everkinetic, Wikimedia Commons y Openverse. Esos tres son **ilustraciones
 originales** hechas para este repo (SVG renderizado), y lo dicen en la propia imagen. Así ningún
 fotograma enseña algo distinto de lo que pide el ejercicio.
